@@ -72,7 +72,7 @@ As a user, I want to see \* when player flagged the square
 User Story 4: Game Victory
 As a user, I want to see victory message after player cleared all squares without bomb
 
-- ⚠ TODO UAT4.1: When player clicked on squares[2;0 + 2;2], then I should see '+-+-+-+
+- ⚠ TODO UAT4.1: When player clicked on squares [2;0 + 2;2], then I should see '+-+-+-+
   |2|2|1|
   +-+-+-+
   |_|_|2|
@@ -80,3 +80,12 @@ As a user, I want to see victory message after player cleared all squares withou
   |3|\*|2|
   +-+-+-+
   [Sandbox 3x3] the land is cleared! GOOD JOB!'
+
+- ⚠ TODO UAT4.2: When player clicked on square 0;0, then I should see '+-+-+-+
+  |_|1| |
+  +-+-+-+
+  |_|1|1|
+  +-+-+-+
+  |_|_|\_|
+  +-+-+-+
+  [Sandbox 3x3] the land is cleared! GOOD JOB!

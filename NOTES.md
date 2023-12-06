@@ -21,3 +21,7 @@ Pomodoro 2:
 
 - ✅ DONE add examples
 - 🚧 IN PROGRESS create user stories and UATs
+
+Pomodoro 3:
+
+- ✅ DONE create user stories and UATs
