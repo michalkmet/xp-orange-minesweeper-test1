@@ -59,3 +59,12 @@ Pomodoro 4:
   | | | |
   +-+-+-+
   [Sandbox 3x3] BOOM! – Game Over.'
+
+- ✅ DONE UAT2.3: When player steps on bomb on the square 1;1, then I should see '+-+-+-+
+  | | | |
+  +-+-+-+
+  | |X| |
+  +-+-+-+
+  | | | |
+  +-+-+-+
+  [Sandbox 3x3] BOOM! – Game Over.'
