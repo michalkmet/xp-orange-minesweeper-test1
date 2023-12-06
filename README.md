@@ -1,6 +1,4 @@
-# Awesome repo
-
-Mine Sweeper Kata
+# Mine Sweeper Kata
 
 The exercise involves developing a Mine Sweeper game strictly adhering to the TDD, ATDD rules.
 Mine Sweeper - Game Rules:
@@ -37,7 +35,7 @@ UAT Scenarios:
 ```
 
 ```
-3 – Clean square 0;0 and get the number of bombs around
+3 – Clean square 2;2 and get the number of bombs around
 +-+-+-+
 | | | |
 +-+-+-+
@@ -86,6 +84,74 @@ UAT Scenarios:
 
 Kata Objective:
 The game runs in BOT mode to print on the screen all the moves until we got a victory or game over. The test suite can simulate the game without having an executable. In that case the test suite will print on console the scenario; or in a log file with a clean test report [red/green style].
+
+## Examples
+
+Example 1 - Empty board
+
+```
+1 – Game Board Creation phase:
++-+-+-+
+| | | |
++-+-+-+
+| | | |
++-+-+-+
+| | | |
++-+-+-+
+[Sandbox 3x3] Game created
+```
+
+Example 2 - step on bomb on 0;0
+
+```
++-+-+-+
+|X| | |
++-+-+-+
+| | | |
++-+-+-+
+| | | |
++-+-+-+
+[Sandbox 3x3] BOOM! – Game Over.
+```
+
+Example 3 - step on bomb on 0;1
+
+```
++-+-+-+
+| |X| |
++-+-+-+
+| | | |
++-+-+-+
+| | | |
++-+-+-+
+[Sandbox 3x3] BOOM! – Game Over.
+```
+
+Example 4 - step on bomb on 1;1
+
+```
++-+-+-+
+| | | |
++-+-+-+
+| |X| |
++-+-+-+
+| | | |
++-+-+-+
+[Sandbox 3x3] BOOM! – Game Over.
+```
+
+Example 5 - step on bomb on 2;2
+
+```
++-+-+-+
+| | | |
++-+-+-+
+| | | |
++-+-+-+
+| | |X|
++-+-+-+
+[Sandbox 3x3] BOOM! – Game Over.
+```
 
 ## Legend
 
