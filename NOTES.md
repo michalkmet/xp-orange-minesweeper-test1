@@ -13,7 +13,7 @@ Pomodoro 1:
 - ✅ DONE Plan pomodoro 1
 - ✅ DONE Create backlog.md file
 - ✅ DONE Add project description
-- 🚧 IN PROGRESS refactor readme.md
-- ⚠ TODO initial file names / function names refactor
+- ✅ DONE refactor readme.md
+- ✅ DONE initial file names / function names refactor
 - ⚠ TODO add examples
 - ⚠ TODO create user stories and UATs
