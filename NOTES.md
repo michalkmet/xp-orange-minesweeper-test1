@@ -25,10 +25,10 @@ Pomodoro 2:
 Pomodoro 3:
 
 - ✅ DONE create user stories and UATs
-- 🚧 IN PROGRESS User Story 1: Game created
+- ✅ DONE User Story 1: Game created
   As a user, I want to see empty board and Game created message
 
-- 🚧 IN PROGRESS UAT1.1: When game start, then I should see '+-+-+-+
+- ✅ DONE UAT1.1: When game start, then I should see '+-+-+-+
   | | | |
   +-+-+-+
   | | | |
@@ -36,3 +36,15 @@ Pomodoro 3:
   | | | |
   +-+-+-+
   [Sandbox 3x3] Game created'
+
+- 🚧 IN PROGRESS User Story 2: Step on the bomb
+  As a user, I want to see X when player steps on the square with the bomb and game over message
+
+- ✅ DONE UAT2.1: When player steps on bomb on the 0;0 square, then I should see '+-+-+-+
+  |X| | |
+  +-+-+-+
+  | | | |
+  +-+-+-+
+  | | | |
+  +-+-+-+
+  [Sandbox 3x3] BOOM! – Game Over.'
