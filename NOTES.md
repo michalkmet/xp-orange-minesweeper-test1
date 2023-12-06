@@ -20,4 +20,4 @@ Pomodoro 1:
 Pomodoro 2:
 
 - ✅ DONE add examples
-- ⚠ TODO create user stories and UATs
+- 🚧 IN PROGRESS create user stories and UATs

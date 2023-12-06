@@ -47,7 +47,7 @@ UAT Scenarios:
 ```
 
 ```
-4 – Mark the bombs around – What I expect after I marked the 3 squares as bombs [1;0 + 1;1 + 0;1].
+4 – Mark the bombs around – What I expect after I marked the 3 squares as bombs [1;0 + 1;1 + 2;1].
 +-+-+-+
 | | | |
 +-+-+-+
@@ -153,7 +153,7 @@ Example 5 - step on bomb on 2;2
 [Sandbox 3x3] BOOM! – Game Over.
 ```
 
-Example 6 - Mark the bombs around – What I expect after I marked the 3 squares as bombs [1;0 + 1;1 + 0;1].
+Example 6 - Mark the bombs around – What I expect after I marked the 3 squares as bombs [1;0 + 1;1 + 2;1].
 
 ```
 +-+-+-+
@@ -191,9 +191,3 @@ Example 8 Massive cleaning and victory clicking on 0;0
 +-+-+-+
 [Sandbox 3x3] the land is cleared! GOOD JOB!
 ```
-
-## Legend
-
-- ⚠ TODO
-- 🚧 IN PROGRESS
-- ✅ DONE
