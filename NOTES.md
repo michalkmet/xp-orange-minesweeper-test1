@@ -16,4 +16,8 @@ Pomodoro 1:
 - ✅ DONE refactor readme.md
 - ✅ DONE initial file names / function names refactor
 - 🚧 IN PROGRESS add examples
+
+Pomodoro 2:
+
+- 🚧 IN PROGRESS add examples
 - ⚠ TODO create user stories and UATs
