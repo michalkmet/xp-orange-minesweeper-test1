@@ -76,7 +76,7 @@ As a user, I want to see \* when player flagged the square
   +-+-+-+
   |_|_| |
   +-+-+-+
-  |3|\*| |
+  |3|*| |
   +-+-+-+
   [Sandbox 3x3] Square flagged as bomb.'
 ```
@@ -90,7 +90,7 @@ As a user, I want to see victory message after player cleared all squares withou
   +-+-+-+
   |_|_|2|
   +-+-+-+
-  |3|\*|2|
+  |3|*|2|
   +-+-+-+
   [Sandbox 3x3] the land is cleared! GOOD JOB!'
 ```
@@ -101,7 +101,7 @@ As a user, I want to see victory message after player cleared all squares withou
   +-+-+-+
   |_|1|1|
   +-+-+-+
-  |_|_|\_|
+  |_|_|_|
   +-+-+-+
   [Sandbox 3x3] the land is cleared! GOOD JOB!
 ```
