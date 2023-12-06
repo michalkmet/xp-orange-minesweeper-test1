@@ -59,7 +59,7 @@ UAT Scenarios:
 ```
 
 ```
-5 – Game Victory – After I cleared the all the squares [2;0 + 2;1 + 2;2 + 1;2 + 1;2]
+5 – Game Victory – After I cleared the all the squares [2;0 + 2;2]
 +-+-+-+
 |2|2|1|
 +-+-+-+
@@ -151,6 +151,45 @@ Example 5 - step on bomb on 2;2
 | | |X|
 +-+-+-+
 [Sandbox 3x3] BOOM! – Game Over.
+```
+
+Example 6 - Mark the bombs around – What I expect after I marked the 3 squares as bombs [1;0 + 1;1 + 0;1].
+
+```
++-+-+-+
+| | | |
++-+-+-+
+|*|*| |
++-+-+-+
+|3|*| |
++-+-+-+
+[Sandbox 3x3] Square flagged as bomb.
+```
+
+Example 7 Game Victory – After I cleared the all the squares [2;0 + 2;2]
+
+```
++-+-+-+
+|2|2|1|
++-+-+-+
+|*|*|2|
++-+-+-+
+|3|*|2|
++-+-+-+
+[Sandbox 3x3] the land is cleared! GOOD JOB!
+```
+
+Example 8 Massive cleaning and victory clicking on 0;0
+
+```
++-+-+-+
+|_|1| |
++-+-+-+
+|_|1|1|
++-+-+-+
+|_|_|_|
++-+-+-+
+[Sandbox 3x3] the land is cleared! GOOD JOB!
 ```
 
 ## Legend
