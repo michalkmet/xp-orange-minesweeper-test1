@@ -53,9 +53,9 @@ UAT Scenarios:
 +-+-+-+
 | | | |
 +-+-+-+
-|_|_| |
+|*|*| |
 +-+-+-+
-|3|\*| |
+|3|*| |
 +-+-+-+
 [Sandbox 3x3] Square flagged as bomb.
 ```
@@ -65,9 +65,9 @@ UAT Scenarios:
 +-+-+-+
 |2|2|1|
 +-+-+-+
-|_|_|2|
+|*|*|2|
 +-+-+-+
-|3|\*|2|
+|3|*|2|
 +-+-+-+
 [Sandbox 3x3] the land is cleared! GOOD JOB!
 ```
@@ -79,7 +79,7 @@ UAT Scenarios:
 +-+-+-+
 |_|1|1|
 +-+-+-+
-|_|_|\_|
+|_|_|_|
 +-+-+-+
 [Sandbox 3x3] the land is cleared! GOOD JOB!
 ```
