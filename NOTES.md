@@ -25,3 +25,14 @@ Pomodoro 2:
 Pomodoro 3:
 
 - ✅ DONE create user stories and UATs
+- 🚧 IN PROGRESS User Story 1: Game created
+  As a user, I want to see empty board and Game created message
+
+- 🚧 IN PROGRESS UAT1.1: When game start, then I should see '+-+-+-+
+  | | | |
+  +-+-+-+
+  | | | |
+  +-+-+-+
+  | | | |
+  +-+-+-+
+  [Sandbox 3x3] Game created'
